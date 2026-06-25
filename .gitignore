@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+.ipynb_checkpoints/
+mlruns/
+data/
+results/
+.vscode/
+*.code-workspace
